@@ -1,0 +1,509 @@
+﻿District,District (sri lankan districts provinces lat long population.csv),District.,Month,Province (sri lankan districts provinces lat long population.csv),Year,F1,Latitude (sri lankan districts provinces lat long population.csv),Longitude (sri lankan districts provinces lat long population.csv),No of complaints,Population
+Ampara,Ampara,Ampara,,Eastern,2017-01-01,0,7.2914,81.6728,208,649402
+Anuradhapura,Anuradhapura,Anuradhapura,,North Central,2017-01-01,1,8.335,80.4037,441,860575
+Badulla,Badulla,Badulla,,Uva,2017-01-01,2,6.9934,81.055,198,815405
+Batticaloa,Batticaloa,Batticaloa,,Eastern,2017-01-01,3,7.717,81.7056,179,526567
+Colombo,Colombo,Colombo,,Western,2017-01-01,4,6.9271,79.8612,1302,2324344
+Galle,Galle,Galle,,Southern,2017-01-01,5,6.0535,80.217,586,1024889
+Gampaha,Gampaha,Gampaha,,Western,2017-01-01,6,7.084,79.8931,974,2290058
+Hambanthota,Hambanthota,Hambanthota,,Southern,2017-01-01,7,6.1241,81.1185,310,594335
+Jaffna,Jaffna,Jaffna,,Northern,2017-01-01,8,9.6615,80.0074,188,583378
+Kalutara,Kalutara,Kalutara,,Western,2017-01-01,9,6.5854,79.9166,591,1221759
+Kandy,Kandy,Kandy,,Central,2017-01-01,10,7.2906,80.6337,382,1374775
+Kegalle,Kegalle,Kegalle,,Sabaragamuwa,2017-01-01,11,7.2513,80.3464,286,840648
+Kilinochchi,Kilinochchi,Kilinochchi,,Northern,2017-01-01,12,9.3842,80.402,126,113510
+Kurunegala,Kurunegala,Kurunegala,,North Western,2017-01-01,13,7.4863,80.0148,681,1618463
+Mannar,Mannar,Mannar,,Northern,2017-01-01,14,8.981,79.9133,69,99548
+Matale,Matale,Matale,,Central,2017-01-01,15,7.4675,80.6234,200,484531
+Matara,Matara,Matara,,Southern,2017-01-01,16,5.9549,80.5353,316,809959
+Monaragala,Monaragala,Monaragala,,Uva,2017-01-01,17,6.8906,81.2152,226,451058
+Mullaitivu,Mullaitivu,Mullaitivu,,Northern,2017-01-01,18,9.2671,80.8061,132,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,,Central,2017-01-01,19,6.9708,80.7671,184,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,,North Central,2017-01-01,20,7.9403,81.0002,245,403068
+Puttalam,Puttalam,Puttalam,,North Western,2017-01-01,21,8.0983,79.8283,403,762396
+Ratnapura,Ratnapura,Ratnapura,,Sabaragamuwa,2017-01-01,22,6.6828,80.4,518,1096957
+Trincomalee,Trincomalee,Trincomalee,,Eastern,2017-01-01,23,8.5874,81.2335,138,379541
+Vavuniya,Vavuniya,Vavuniya,,Northern,2017-01-01,24,8.7519,80.5007,131,167591
+Total,,Total,,,2017-01-01,25,,,9014,
+Ampara,Ampara,Ampara,,Eastern,2018-01-01,26,7.2914,81.6728,229,649402
+Anuradhapura,Anuradhapura,Anuradhapura,,North Central,2018-01-01,27,8.335,80.4037,434,860575
+Badulla,Badulla,Badulla,,Uva,2018-01-01,28,6.9934,81.055,237,815405
+Batticaloa,Batticaloa,Batticaloa,,Eastern,2018-01-01,29,7.717,81.7056,189,526567
+Colombo,Colombo,Colombo,,Western,2018-01-01,30,6.9271,79.8612,1330,2324344
+Galle,Galle,Galle,,Southern,2018-01-01,31,6.0535,80.217,617,1024889
+Gampaha,Gampaha,Gampaha,,Western,2018-01-01,32,7.084,79.8931,1066,2290058
+Hambanthota,Hambanthota,Hambanthota,,Southern,2018-01-01,33,6.1241,81.1185,361,594335
+Jaffna,Jaffna,Jaffna,,Northern,2018-01-01,34,9.6615,80.0074,207,583378
+Kalutara,Kalutara,Kalutara,,Western,2018-01-01,35,6.5854,79.9166,540,1221759
+Kandy,Kandy,Kandy,,Central,2018-01-01,36,7.2906,80.6337,420,1374775
+Kegalle,Kegalle,Kegalle,,Sabaragamuwa,2018-01-01,37,7.2513,80.3464,349,840648
+Kilinochchi,Kilinochchi,Kilinochchi,,Northern,2018-01-01,38,9.3842,80.402,104,113510
+Kurunegala,Kurunegala,Kurunegala,,North Western,2018-01-01,39,7.4863,80.0148,823,1618463
+Mannar,Mannar,Mannar,,Northern,2018-01-01,40,8.981,79.9133,69,99548
+Matale,Matale,Matale,,Central,2018-01-01,41,7.4675,80.6234,210,484531
+Matara,Matara,Matara,,Southern,2018-01-01,42,5.9549,80.5353,346,809959
+Monaragala,Monaragala,Monaragala,,Uva,2018-01-01,43,6.8906,81.2152,224,451058
+Mullaitivu,Mullaitivu,Mullaitivu,,Northern,2018-01-01,44,9.2671,80.8061,98,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,,Central,2018-01-01,45,6.9708,80.7671,168,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,,North Central,2018-01-01,46,7.9403,81.0002,246,403068
+Puttalam,Puttalam,Puttalam,,North Western,2018-01-01,47,8.0983,79.8283,440,762396
+Ratnapura,Ratnapura,Ratnapura,,Sabaragamuwa,2018-01-01,48,6.6828,80.4,537,1096957
+Trincomalee,Trincomalee,Trincomalee,,Eastern,2018-01-01,49,8.5874,81.2335,137,379541
+Vavuniya,Vavuniya,Vavuniya,,Northern,2018-01-01,50,8.7519,80.5007,131,167591
+Total,,Total,,,2018-01-01,51,,,9512,
+Ampara,Ampara,Ampara,,Eastern,2019-01-01,52,7.2914,81.6728,201,649402
+Anuradhapura,Anuradhapura,Anuradhapura,,North Central,2019-01-01,53,8.335,80.4037,487,860575
+Badulla,Badulla,Badulla,,Uva,2019-01-01,54,6.9934,81.055,224,815405
+Batticaloa,Batticaloa,Batticaloa,,Eastern,2019-01-01,55,7.717,81.7056,166,526567
+Colombo,Colombo,Colombo,,Western,2019-01-01,56,6.9271,79.8612,1167,2324344
+Galle,Galle,Galle,,Southern,2019-01-01,57,6.0535,80.217,537,1024889
+Gampaha,Gampaha,Gampaha,,Western,2019-01-01,58,7.084,79.8931,888,2290058
+Hambanthota,Hambanthota,Hambanthota,,Southern,2019-01-01,59,6.1241,81.1185,335,594335
+Jaffna,Jaffna,Jaffna,,Northern,2019-01-01,60,9.6615,80.0074,175,583378
+Kalutara,Kalutara,Kalutara,,Western,2019-01-01,61,6.5854,79.9166,478,1221759
+Kandy,Kandy,Kandy,,Central,2019-01-01,62,7.2906,80.6337,390,1374775
+Kegalle,Kegalle,Kegalle,,Sabaragamuwa,2019-01-01,63,7.2513,80.3464,288,840648
+Kilinochchi,Kilinochchi,Kilinochchi,,Northern,2019-01-01,64,9.3842,80.402,141,113510
+Kurunegala,Kurunegala,Kurunegala,,North Western,2019-01-01,65,7.4863,80.0148,726,1618463
+Mannar,Mannar,Mannar,,Northern,2019-01-01,66,8.981,79.9133,80,99548
+Matale,Matale,Matale,,Central,2019-01-01,67,7.4675,80.6234,140,484531
+Matara,Matara,Matara,,Southern,2019-01-01,68,5.9549,80.5353,301,809959
+Monaragala,Monaragala,Monaragala,,Uva,2019-01-01,69,6.8906,81.2152,221,451058
+Mullaitivu,Mullaitivu,Mullaitivu,,Northern,2019-01-01,70,9.2671,80.8061,122,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,,Central,2019-01-01,71,6.9708,80.7671,177,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,,North Central,2019-01-01,72,7.9403,81.0002,229,403068
+Puttalam,Puttalam,Puttalam,,North Western,2019-01-01,73,8.0983,79.8283,375,762396
+Ratnapura,Ratnapura,Ratnapura,,Sabaragamuwa,2019-01-01,74,6.6828,80.4,471,1096957
+Trincomalee,Trincomalee,Trincomalee,,Eastern,2019-01-01,75,8.5874,81.2335,133,379541
+Vavuniya,Vavuniya,Vavuniya,,Northern,2019-01-01,76,8.7519,80.5007,106,167591
+Total,,Total,,,2019-01-01,77,,,8558,
+Colombo,Colombo,Colombo,,Western,2020-01-01,78,6.9271,79.8612,1134,2324344
+Gampaha,Gampaha,Gampaha,,Western,2020-01-01,79,7.084,79.8931,944,2290058
+Kurunegala,Kurunegala,Kurunegala,,North Western,2020-01-01,80,7.4863,80.0148,627,1618463
+Kalutara,Kalutara,Kalutara,,Western,2020-01-01,81,6.5854,79.9166,467,1221759
+Galle,Galle,Galle,,Southern,2020-01-01,82,6.0535,80.217,454,1024889
+Ratnapura,Ratnapura,Ratnapura,,Sabaragamuwa,2020-01-01,83,6.6828,80.4,454,1096957
+Anuradhapura,Anuradhapura,Anuradhapura,,North Central,2020-01-01,84,8.335,80.4037,404,860575
+Puttalam,Puttalam,Puttalam,,North Western,2020-01-01,85,8.0983,79.8283,368,762396
+Hambanthota,Hambanthota,Hambanthota,,Southern,2020-01-01,86,6.1241,81.1185,366,594335
+Kandy,Kandy,Kandy,,Central,2020-01-01,87,7.2906,80.6337,363,1374775
+Matara,Matara,Matara,,Southern,2020-01-01,88,5.9549,80.5353,301,809959
+Kegalle,Kegalle,Kegalle,,Sabaragamuwa,2020-01-01,89,7.2513,80.3464,254,840648
+Badulla,Badulla,Badulla,,Uva,2020-01-01,90,6.9934,81.055,243,815405
+Monaragala,Monaragala,Monaragala,,Uva,2020-01-01,91,6.8906,81.2152,226,451058
+Polonnaruwa,Polonnaruwa,Polonnaruwa,,North Central,2020-01-01,92,7.9403,81.0002,223,403068
+Ampara,Ampara,Ampara,,Eastern,2020-01-01,93,7.2914,81.6728,192,649402
+Jaffna,Jaffna,Jaffna,,Northern,2020-01-01,94,9.6615,80.0074,174,583378
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,,Central,2020-01-01,95,6.9708,80.7671,160,711644
+Batticaloa,Batticaloa,Batticaloa,,Eastern,2020-01-01,96,7.717,81.7056,159,526567
+Matale,Matale,Matale,,Central,2020-01-01,97,7.4675,80.6234,136,484531
+Trincomalee,Trincomalee,Trincomalee,,Eastern,2020-01-01,98,8.5874,81.2335,120,379541
+Kilinochchi,Kilinochchi,Kilinochchi,,Northern,2020-01-01,99,9.3842,80.402,119,113510
+Mullaitivu,Mullaitivu,Mullaitivu,,Northern,2020-01-01,100,9.2671,80.8061,118,92038
+Vavuniya,Vavuniya,Vavuniya,,Northern,2020-01-01,101,8.7519,80.5007,92,167591
+Mannar,Mannar,Mannar,,Northern,2020-01-01,102,8.981,79.9133,67,99548
+Total,,Total,,,2020-01-01,103,,,8165,
+Ampara,Ampara,Ampara,,Eastern,2021-01-01,104,7.2914,81.6728,230,649402
+Anuradhapura,Anuradhapura,Anuradhapura,,North Central,2021-01-01,105,8.335,80.4037,563,860575
+Badulla,Badulla,Badulla,,Uva,2021-01-01,106,6.9934,81.055,250,815405
+Batticaloa,Batticaloa,Batticaloa,,Eastern,2021-01-01,107,7.717,81.7056,180,526567
+Colombo,Colombo,Colombo,,Western,2021-01-01,108,6.9271,79.8612,2175,2324344
+Galle,Galle,Galle,,Southern,2021-01-01,109,6.0535,80.217,624,1024889
+Gampaha,Gampaha,Gampaha,,Western,2021-01-01,110,7.084,79.8931,1088,2290058
+Hambanthota,Hambanthota,Hambanthota,,Southern,2021-01-01,111,6.1241,81.1185,392,594335
+Jaffna,Jaffna,Jaffna,,Northern,2021-01-01,112,9.6615,80.0074,196,583378
+Kalutara,Kalutara,Kalutara,,Western,2021-01-01,113,6.5854,79.9166,658,1221759
+Kandy,Kandy,Kandy,,Central,2021-01-01,114,7.2906,80.6337,461,1374775
+Kegalle,Kegalle,Kegalle,,Sabaragamuwa,2021-01-01,115,7.2513,80.3464,388,840648
+Kilinochchi,Kilinochchi,Kilinochchi,,Northern,2021-01-01,116,9.3842,80.402,115,113510
+Kurunegala,Kurunegala,Kurunegala,,North Western,2021-01-01,117,7.4863,80.0148,789,1618463
+Mannar,Mannar,Mannar,,Northern,2021-01-01,118,8.981,79.9133,89,99548
+Matale,Matale,Matale,,Central,2021-01-01,119,7.4675,80.6234,240,484531
+Matara,Matara,Matara,,Southern,2021-01-01,120,5.9549,80.5353,416,809959
+Monaragala,Monaragala,Monaragala,,Uva,2021-01-01,121,6.8906,81.2152,285,451058
+Mullaitivu,Mullaitivu,Mullaitivu,,Northern,2021-01-01,122,9.2671,80.8061,133,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,,Central,2021-01-01,123,6.9708,80.7671,199,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,,North Central,2021-01-01,124,7.9403,81.0002,268,403068
+Puttalam,Puttalam,Puttalam,,North Western,2021-01-01,125,8.0983,79.8283,463,762396
+Ratnapura,Ratnapura,Ratnapura,,Sabaragamuwa,2021-01-01,126,6.6828,80.4,693,1096957
+Trincomalee,Trincomalee,Trincomalee,,Eastern,2021-01-01,127,8.5874,81.2335,173,379541
+Vavuniya,Vavuniya,Vavuniya,,Northern,2021-01-01,128,8.7519,80.5007,119,167591
+Total,,Total,,,2021-01-01,129,,,11187,
+Ampara,Ampara,Ampara,,Eastern,2022-01-01,130,7.2914,81.6728,234,649402
+Anuradhapura,Anuradhapura,Anuradhapura,,North Central,2022-01-01,131,8.335,80.4037,597,860575
+Badulla,Badulla,Badulla,,Uva,2022-01-01,132,6.9934,81.055,277,815405
+Batticaloa,Batticaloa,Batticaloa,,Eastern,2022-01-01,133,7.717,81.7056,160,526567
+Colombo,Colombo,Colombo,,Western,2022-01-01,134,6.9271,79.8612,1708,2324344
+Galle,Galle,Galle,,Southern,2022-01-01,135,6.0535,80.217,703,1024889
+Gampaha,Gampaha,Gampaha,,Western,2022-01-01,136,7.084,79.8931,1027,2290058
+Hambanthota,Hambanthota,Hambanthota,,Southern,2022-01-01,137,6.1241,81.1185,395,594335
+Jaffna,Jaffna,Jaffna,,Northern,2022-01-01,138,9.6615,80.0074,166,583378
+Kalutara,Kalutara,Kalutara,,Western,2022-01-01,139,6.5854,79.9166,585,1221759
+Kandy,Kandy,Kandy,,Central,2022-01-01,140,7.2906,80.6337,458,1374775
+Kegalle,Kegalle,Kegalle,,Sabaragamuwa,2022-01-01,141,7.2513,80.3464,344,840648
+Kilinochchi,Kilinochchi,Kilinochchi,,Northern,2022-01-01,142,9.3842,80.402,87,113510
+Kurunegala,Kurunegala,Kurunegala,,North Western,2022-01-01,143,7.4863,80.0148,791,1618463
+Mannar,Mannar,Mannar,,Northern,2022-01-01,144,8.981,79.9133,56,99548
+Matale,Matale,Matale,,Central,2022-01-01,145,7.4675,80.6234,239,484531
+Matara,Matara,Matara,,Southern,2022-01-01,146,5.9549,80.5353,388,809959
+Monaragala,Monaragala,Monaragala,,Uva,2022-01-01,147,6.8906,81.2152,284,451058
+Mullaitivu,Mullaitivu,Mullaitivu,,Northern,2022-01-01,148,9.2671,80.8061,104,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,,Central,2022-01-01,149,6.9708,80.7671,195,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,,North Central,2022-01-01,150,7.9403,81.0002,263,403068
+Puttalam,Puttalam,Puttalam,,North Western,2022-01-01,151,8.0983,79.8283,435,762396
+Ratnapura,Ratnapura,Ratnapura,,Sabaragamuwa,2022-01-01,152,6.6828,80.4,652,1096957
+Trincomalee,Trincomalee,Trincomalee,,Eastern,2022-01-01,153,8.5874,81.2335,156,379541
+Vavuniya,Vavuniya,Vavuniya,,Northern,2022-01-01,154,8.7519,80.5007,81,167591
+All Island,,Unknown,,,2022-01-01,155,,,112,
+Total,,Total,,,2022-01-01,156,,,10497,
+Ampara,Ampara,Ampara,January,Eastern,2023-01-01,157,7.2914,81.6728,20,649402
+Anuradhapura,Anuradhapura,Anuradhapura,January,North Central,2023-01-01,158,8.335,80.4037,34,860575
+Badulla,Badulla,Badulla,January,Uva,2023-01-01,159,6.9934,81.055,16,815405
+Batticaloa,Batticaloa,Batticaloa,January,Eastern,2023-01-01,160,7.717,81.7056,12,526567
+Colombo,Colombo,Colombo,January,Western,2023-01-01,161,6.9271,79.8612,112,2324344
+Galle,Galle,Galle,January,Southern,2023-01-01,162,6.0535,80.217,42,1024889
+Gampaha,Gampaha,Gampaha,January,Western,2023-01-01,163,7.084,79.8931,74,2290058
+Hambanthota,Hambanthota,Hambanthota,January,Southern,2023-01-01,164,6.1241,81.1185,24,594335
+Jaffna,Jaffna,Jaffna,January,Northern,2023-01-01,165,9.6615,80.0074,10,583378
+Kalutara,Kalutara,Kalutara,January,Western,2023-01-01,166,6.5854,79.9166,48,1221759
+Kandy,Kandy,Kandy,January,Central,2023-01-01,167,7.2906,80.6337,39,1374775
+Kegalle,Kegalle,Kegalle,January,Sabaragamuwa,2023-01-01,168,7.2513,80.3464,23,840648
+Kilinochchi,Kilinochchi,Kilinochchi,January,Northern,2023-01-01,169,9.3842,80.402,2,113510
+Kurunegala,Kurunegala,Kurunegala,January,North Western,2023-01-01,170,7.4863,80.0148,47,1618463
+Mannar,Mannar,Mannar,January,Northern,2023-01-01,171,8.981,79.9133,1,99548
+Matale,Matale,Matale,January,Central,2023-01-01,172,7.4675,80.6234,15,484531
+Matara,Matara,Matara,January,Southern,2023-01-01,173,5.9549,80.5353,39,809959
+Monaragala,Monaragala,Monaragala,January,Uva,2023-01-01,174,6.8906,81.2152,12,451058
+Mullaitivu,Mullaitivu,Mullaitivu,January,Northern,2023-01-01,175,9.2671,80.8061,6,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,January,Central,2023-01-01,176,6.9708,80.7671,9,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,January,North Central,2023-01-01,177,7.9403,81.0002,17,403068
+Puttalam,Puttalam,Puttalam,January,North Western,2023-01-01,178,8.0983,79.8283,34,762396
+Ratnapura,Ratnapura,Ratnapura,January,Sabaragamuwa,2023-01-01,179,6.6828,80.4,43,1096957
+Trincomalee,Trincomalee,Trincomalee,January,Eastern,2023-01-01,180,8.5874,81.2335,13,379541
+Vavuniya,Vavuniya,Vavuniya,January,Northern,2023-01-01,181,8.7519,80.5007,6,167591
+Unknown,,Unknown,January,,2023-01-01,182,,,63,
+,,,January,,2023-01-01,183,,,761,
+Ampara,Ampara,Ampara,February,Eastern,2023-01-01,184,7.2914,81.6728,17,649402
+Anuradhapura,Anuradhapura,Anuradhapura,February,North Central,2023-01-01,185,8.335,80.4037,47,860575
+Badulla,Badulla,Badulla,February,Uva,2023-01-01,186,6.9934,81.055,21,815405
+Batticaloa,Batticaloa,Batticaloa,February,Eastern,2023-01-01,187,7.717,81.7056,15,526567
+Colombo,Colombo,Colombo,February,Western,2023-01-01,188,6.9271,79.8612,100,2324344
+Galle,Galle,Galle,February,Southern,2023-01-01,189,6.0535,80.217,29,1024889
+Gampaha,Gampaha,Gampaha,February,Western,2023-01-01,190,7.084,79.8931,73,2290058
+Hambanthota,Hambanthota,Hambanthota,February,Southern,2023-01-01,191,6.1241,81.1185,30,594335
+Jaffna,Jaffna,Jaffna,February,Northern,2023-01-01,192,9.6615,80.0074,13,583378
+Kalutara,Kalutara,Kalutara,February,Western,2023-01-01,193,6.5854,79.9166,32,1221759
+Kandy,Kandy,Kandy,February,Central,2023-01-01,194,7.2906,80.6337,24,1374775
+Kegalle,Kegalle,Kegalle,February,Sabaragamuwa,2023-01-01,195,7.2513,80.3464,32,840648
+Kilinochchi,Kilinochchi,Kilinochchi,February,Northern,2023-01-01,196,9.3842,80.402,3,113510
+Kurunegala,Kurunegala,Kurunegala,February,North Western,2023-01-01,197,7.4863,80.0148,56,1618463
+Mannar,Mannar,Mannar,February,Northern,2023-01-01,198,8.981,79.9133,3,99548
+Matale,Matale,Matale,February,Central,2023-01-01,199,7.4675,80.6234,14,484531
+Matara,Matara,Matara,February,Southern,2023-01-01,200,5.9549,80.5353,15,809959
+Monaragala,Monaragala,Monaragala,February,Uva,2023-01-01,201,6.8906,81.2152,23,451058
+Mullaitivu,Mullaitivu,Mullaitivu,February,Northern,2023-01-01,202,9.2671,80.8061,5,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,February,Central,2023-01-01,203,6.9708,80.7671,12,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,February,North Central,2023-01-01,204,7.9403,81.0002,18,403068
+Puttalam,Puttalam,Puttalam,February,North Western,2023-01-01,205,8.0983,79.8283,30,762396
+Ratnapura,Ratnapura,Ratnapura,February,Sabaragamuwa,2023-01-01,206,6.6828,80.4,44,1096957
+Trincomalee,Trincomalee,Trincomalee,February,Eastern,2023-01-01,207,8.5874,81.2335,13,379541
+Vavuniya,Vavuniya,Vavuniya,February,Northern,2023-01-01,208,8.7519,80.5007,6,167591
+Unknown,,Unknown,February,,2023-01-01,209,,,28,
+,,,February,,2023-01-01,210,,,703,
+Ampara,Ampara,Ampara,March,Eastern,2023-01-01,211,7.2914,81.6728,22,649402
+Anuradhapura,Anuradhapura,Anuradhapura,March,North Central,2023-01-01,212,8.335,80.4037,59,860575
+Badulla,Badulla,Badulla,March,Uva,2023-01-01,213,6.9934,81.055,28,815405
+Batticaloa,Batticaloa,Batticaloa,March,Eastern,2023-01-01,214,7.717,81.7056,15,526567
+Colombo,Colombo,Colombo,March,Western,2023-01-01,215,6.9271,79.8612,143,2324344
+Galle,Galle,Galle,March,Southern,2023-01-01,216,6.0535,80.217,54,1024889
+Gampaha,Gampaha,Gampaha,March,Western,2023-01-01,217,7.084,79.8931,92,2290058
+Hambanthota,Hambanthota,Hambanthota,March,Southern,2023-01-01,218,6.1241,81.1185,40,594335
+Jaffna,Jaffna,Jaffna,March,Northern,2023-01-01,219,9.6615,80.0074,6,583378
+Kalutara,Kalutara,Kalutara,March,Western,2023-01-01,220,6.5854,79.9166,70,1221759
+Kandy,Kandy,Kandy,March,Central,2023-01-01,221,7.2906,80.6337,53,1374775
+Kegalle,Kegalle,Kegalle,March,Sabaragamuwa,2023-01-01,222,7.2513,80.3464,29,840648
+Kilinochchi,Kilinochchi,Kilinochchi,March,Northern,2023-01-01,223,9.3842,80.402,6,113510
+Kurunegala,Kurunegala,Kurunegala,March,North Western,2023-01-01,224,7.4863,80.0148,96,1618463
+Mannar,Mannar,Mannar,March,Northern,2023-01-01,225,8.981,79.9133,8,99548
+Matale,Matale,Matale,March,Central,2023-01-01,226,7.4675,80.6234,25,484531
+Matara,Matara,Matara,March,Southern,2023-01-01,227,5.9549,80.5353,25,809959
+Monaragala,Monaragala,Monaragala,March,Uva,2023-01-01,228,6.8906,81.2152,37,451058
+Mullaitivu,Mullaitivu,Mullaitivu,March,Northern,2023-01-01,229,9.2671,80.8061,8,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,March,Central,2023-01-01,230,6.9708,80.7671,23,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,March,North Central,2023-01-01,231,7.9403,81.0002,28,403068
+Puttalam,Puttalam,Puttalam,March,North Western,2023-01-01,232,8.0983,79.8283,34,762396
+Ratnapura,Ratnapura,Ratnapura,March,Sabaragamuwa,2023-01-01,233,6.6828,80.4,67,1096957
+Trincomalee,Trincomalee,Trincomalee,March,Eastern,2023-01-01,234,8.5874,81.2335,6,379541
+Vavuniya,Vavuniya,Vavuniya,March,Northern,2023-01-01,235,8.7519,80.5007,6,167591
+Unknown,,Unknown,March,,2023-01-01,236,,,46,
+,,,March,,2023-01-01,237,,,1026,
+Ampara,Ampara,Ampara,April,Eastern,2023-01-01,238,7.2914,81.6728,11,649402
+Anuradhapura,Anuradhapura,Anuradhapura,April,North Central,2023-01-01,239,8.335,80.4037,32,860575
+Badulla,Badulla,Badulla,April,Uva,2023-01-01,240,6.9934,81.055,16,815405
+Batticaloa,Batticaloa,Batticaloa,April,Eastern,2023-01-01,241,7.717,81.7056,12,526567
+Colombo,Colombo,Colombo,April,Western,2023-01-01,242,6.9271,79.8612,75,2324344
+Galle,Galle,Galle,April,Southern,2023-01-01,243,6.0535,80.217,30,1024889
+Gampaha,Gampaha,Gampaha,April,Western,2023-01-01,244,7.084,79.8931,54,2290058
+Hambanthota,Hambanthota,Hambanthota,April,Southern,2023-01-01,245,6.1241,81.1185,16,594335
+Jaffna,Jaffna,Jaffna,April,Northern,2023-01-01,246,9.6615,80.0074,7,583378
+Kalutara,Kalutara,Kalutara,April,Western,2023-01-01,247,6.5854,79.9166,28,1221759
+Kandy,Kandy,Kandy,April,Central,2023-01-01,248,7.2906,80.6337,33,1374775
+Kegalle,Kegalle,Kegalle,April,Sabaragamuwa,2023-01-01,249,7.2513,80.3464,15,840648
+Kilinochchi,Kilinochchi,Kilinochchi,April,Northern,2023-01-01,250,9.3842,80.402,4,113510
+Kurunegala,Kurunegala,Kurunegala,April,North Western,2023-01-01,251,7.4863,80.0148,47,1618463
+Mannar,Mannar,Mannar,April,Northern,2023-01-01,252,8.981,79.9133,4,99548
+Matale,Matale,Matale,April,Central,2023-01-01,253,7.4675,80.6234,10,484531
+Matara,Matara,Matara,April,Southern,2023-01-01,254,5.9549,80.5353,17,809959
+Monaragala,Monaragala,Monaragala,April,Uva,2023-01-01,255,6.8906,81.2152,20,451058
+Mullaitivu,Mullaitivu,Mullaitivu,April,Northern,2023-01-01,256,9.2671,80.8061,3,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,April,Central,2023-01-01,257,6.9708,80.7671,10,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,April,North Central,2023-01-01,258,7.9403,81.0002,26,403068
+Puttalam,Puttalam,Puttalam,April,North Western,2023-01-01,259,8.0983,79.8283,30,762396
+Ratnapura,Ratnapura,Ratnapura,April,Sabaragamuwa,2023-01-01,260,6.6828,80.4,50,1096957
+Trincomalee,Trincomalee,Trincomalee,April,Eastern,2023-01-01,261,8.5874,81.2335,13,379541
+Vavuniya,Vavuniya,Vavuniya,April,Northern,2023-01-01,262,8.7519,80.5007,6,167591
+Unknown,,Unknown,April,,2023-01-01,263,,,25,
+,,,April,,2023-01-01,264,,,594,
+Ampara,Ampara,Ampara,May,Eastern,2023-01-01,265,7.2914,81.6728,21,649402
+Anuradhapura,Anuradhapura,Anuradhapura,May,North Central,2023-01-01,266,8.335,80.4037,50,860575
+Badulla,Badulla,Badulla,May,Uva,2023-01-01,267,6.9934,81.055,23,815405
+Batticaloa,Batticaloa,Batticaloa,May,Eastern,2023-01-01,268,7.717,81.7056,14,526567
+Colombo,Colombo,Colombo,May,Western,2023-01-01,269,6.9271,79.8612,111,2324344
+Galle,Galle,Galle,May,Southern,2023-01-01,270,6.0535,80.217,50,1024889
+Gampaha,Gampaha,Gampaha,May,Western,2023-01-01,271,7.084,79.8931,96,2290058
+Hambanthota,Hambanthota,Hambanthota,May,Southern,2023-01-01,272,6.1241,81.1185,36,594335
+Jaffna,Jaffna,Jaffna,May,Northern,2023-01-01,273,9.6615,80.0074,18,583378
+Kalutara,Kalutara,Kalutara,May,Western,2023-01-01,274,6.5854,79.9166,51,1221759
+Kandy,Kandy,Kandy,May,Central,2023-01-01,275,7.2906,80.6337,37,1374775
+Kegalle,Kegalle,Kegalle,May,Sabaragamuwa,2023-01-01,276,7.2513,80.3464,24,840648
+Kilinochchi,Kilinochchi,Kilinochchi,May,Northern,2023-01-01,277,9.3842,80.402,4,113510
+Kurunegala,Kurunegala,Kurunegala,May,North Western,2023-01-01,278,7.4863,80.0148,74,1618463
+Mannar,Mannar,Mannar,May,Northern,2023-01-01,279,8.981,79.9133,4,99548
+Matale,Matale,Matale,May,Central,2023-01-01,280,7.4675,80.6234,16,484531
+Matara,Matara,Matara,May,Southern,2023-01-01,281,5.9549,80.5353,28,809959
+Monaragala,Monaragala,Monaragala,May,Uva,2023-01-01,282,6.8906,81.2152,24,451058
+Mullaitivu,Mullaitivu,Mullaitivu,May,Northern,2023-01-01,283,9.2671,80.8061,7,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,May,Central,2023-01-01,284,6.9708,80.7671,15,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,May,North Central,2023-01-01,285,7.9403,81.0002,33,403068
+Puttalam,Puttalam,Puttalam,May,North Western,2023-01-01,286,8.0983,79.8283,43,762396
+Ratnapura,Ratnapura,Ratnapura,May,Sabaragamuwa,2023-01-01,287,6.6828,80.4,51,1096957
+Trincomalee,Trincomalee,Trincomalee,May,Eastern,2023-01-01,288,8.5874,81.2335,11,379541
+Vavuniya,Vavuniya,Vavuniya,May,Northern,2023-01-01,289,8.7519,80.5007,12,167591
+Unknown,,Unknown,May,,2023-01-01,290,,,45,
+,,,May,,2023-01-01,291,,,898,
+Ampara,Ampara,Ampara,June,Eastern,2023-01-01,292,7.2914,81.6728,22,649402
+Anuradhapura,Anuradhapura,Anuradhapura,June,North Central,2023-01-01,293,8.335,80.4037,53,860575
+Badulla,Badulla,Badulla,June,Uva,2023-01-01,294,6.9934,81.055,18,815405
+Batticaloa,Batticaloa,Batticaloa,June,Eastern,2023-01-01,295,7.717,81.7056,24,526567
+Colombo,Colombo,Colombo,June,Western,2023-01-01,296,6.9271,79.8612,112,2324344
+Galle,Galle,Galle,June,Southern,2023-01-01,297,6.0535,80.217,38,1024889
+Gampaha,Gampaha,Gampaha,June,Western,2023-01-01,298,7.084,79.8931,90,2290058
+Hambanthota,Hambanthota,Hambanthota,June,Southern,2023-01-01,299,6.1241,81.1185,34,594335
+Jaffna,Jaffna,Jaffna,June,Northern,2023-01-01,300,9.6615,80.0074,14,583378
+Kalutara,Kalutara,Kalutara,June,Western,2023-01-01,301,6.5854,79.9166,51,1221759
+Kandy,Kandy,Kandy,June,Central,2023-01-01,302,7.2906,80.6337,38,1374775
+Kegalle,Kegalle,Kegalle,June,Sabaragamuwa,2023-01-01,303,7.2513,80.3464,13,840648
+Kilinochchi,Kilinochchi,Kilinochchi,June,Northern,2023-01-01,304,9.3842,80.402,8,113510
+Kurunegala,Kurunegala,Kurunegala,June,North Western,2023-01-01,305,7.4863,80.0148,76,1618463
+Mannar,Mannar,Mannar,June,Northern,2023-01-01,306,8.981,79.9133,2,99548
+Matale,Matale,Matale,June,Central,2023-01-01,307,7.4675,80.6234,16,484531
+Matara,Matara,Matara,June,Southern,2023-01-01,308,5.9549,80.5353,28,809959
+Monaragala,Monaragala,Monaragala,June,Uva,2023-01-01,309,6.8906,81.2152,18,451058
+Mullaitivu,Mullaitivu,Mullaitivu,June,Northern,2023-01-01,310,9.2671,80.8061,9,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,June,Central,2023-01-01,311,6.9708,80.7671,24,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,June,North Central,2023-01-01,312,7.9403,81.0002,28,403068
+Puttalam,Puttalam,Puttalam,June,North Western,2023-01-01,313,8.0983,79.8283,28,762396
+Ratnapura,Ratnapura,Ratnapura,June,Sabaragamuwa,2023-01-01,314,6.6828,80.4,57,1096957
+Trincomalee,Trincomalee,Trincomalee,June,Eastern,2023-01-01,315,8.5874,81.2335,8,379541
+Vavuniya,Vavuniya,Vavuniya,June,Northern,2023-01-01,316,8.7519,80.5007,3,167591
+Unknown,,Unknown,June,,2023-01-01,317,,,48,
+,,,June,,2023-01-01,318,,,860,
+Ampara,Ampara,Ampara,July,Eastern,2023-01-01,319,7.2914,81.6728,16,649402
+Anuradhapura,Anuradhapura,Anuradhapura,July,North Central,2023-01-01,320,8.335,80.4037,44,860575
+Badulla,Badulla,Badulla,July,Uva,2023-01-01,321,6.9934,81.055,22,815405
+Batticaloa,Batticaloa,Batticaloa,July,Eastern,2023-01-01,322,7.717,81.7056,12,526567
+Colombo,Colombo,Colombo,July,Western,2023-01-01,323,6.9271,79.8612,97,2324344
+Galle,Galle,Galle,July,Southern,2023-01-01,324,6.0535,80.217,62,1024889
+Gampaha,Gampaha,Gampaha,July,Western,2023-01-01,325,7.084,79.8931,79,2290058
+Hambanthota,Hambanthota,Hambanthota,July,Southern,2023-01-01,326,6.1241,81.1185,43,594335
+Jaffna,Jaffna,Jaffna,July,Northern,2023-01-01,327,9.6615,80.0074,13,583378
+Kalutara,Kalutara,Kalutara,July,Western,2023-01-01,328,6.5854,79.9166,36,1221759
+Kandy,Kandy,Kandy,July,Central,2023-01-01,329,7.2906,80.6337,36,1374775
+Kegalle,Kegalle,Kegalle,July,Sabaragamuwa,2023-01-01,330,7.2513,80.3464,25,840648
+Kilinochchi,Kilinochchi,Kilinochchi,July,Northern,2023-01-01,331,9.3842,80.402,4,113510
+Kurunegala,Kurunegala,Kurunegala,July,North Western,2023-01-01,332,7.4863,80.0148,69,1618463
+Mannar,Mannar,Mannar,July,Northern,2023-01-01,333,8.981,79.9133,4,99548
+Matale,Matale,Matale,July,Central,2023-01-01,334,7.4675,80.6234,16,484531
+Matara,Matara,Matara,July,Southern,2023-01-01,335,5.9549,80.5353,34,809959
+Monaragala,Monaragala,Monaragala,July,Uva,2023-01-01,336,6.8906,81.2152,33,451058
+Mullaitivu,Mullaitivu,Mullaitivu,July,Northern,2023-01-01,337,9.2671,80.8061,6,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,July,Central,2023-01-01,338,6.9708,80.7671,20,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,July,North Central,2023-01-01,339,7.9403,81.0002,25,403068
+Puttalam,Puttalam,Puttalam,July,North Western,2023-01-01,340,8.0983,79.8283,48,762396
+Ratnapura,Ratnapura,Ratnapura,July,Sabaragamuwa,2023-01-01,341,6.6828,80.4,50,1096957
+Trincomalee,Trincomalee,Trincomalee,July,Eastern,2023-01-01,342,8.5874,81.2335,15,379541
+Vavuniya,Vavuniya,Vavuniya,July,Northern,2023-01-01,343,8.7519,80.5007,3,167591
+Unknown,,Unknown,July,,2023-01-01,344,,,26,
+,,,July,,2023-01-01,345,,,838,
+Ampara,Ampara,Ampara,August,Eastern,2023-01-01,346,7.2914,81.6728,13,649402
+Anuradhapura,Anuradhapura,Anuradhapura,August,North Central,2023-01-01,347,8.335,80.4037,46,860575
+Badulla,Badulla,Badulla,August,Uva,2023-01-01,348,6.9934,81.055,18,815405
+Batticaloa,Batticaloa,Batticaloa,August,Eastern,2023-01-01,349,7.717,81.7056,12,526567
+Colombo,Colombo,Colombo,August,Western,2023-01-01,350,6.9271,79.8612,78,2324344
+Galle,Galle,Galle,August,Southern,2023-01-01,351,6.0535,80.217,42,1024889
+Gampaha,Gampaha,Gampaha,August,Western,2023-01-01,352,7.084,79.8931,68,2290058
+Hambanthota,Hambanthota,Hambanthota,August,Southern,2023-01-01,353,6.1241,81.1185,31,594335
+Jaffna,Jaffna,Jaffna,August,Northern,2023-01-01,354,9.6615,80.0074,5,583378
+Kalutara,Kalutara,Kalutara,August,Western,2023-01-01,355,6.5854,79.9166,54,1221759
+Kandy,Kandy,Kandy,August,Central,2023-01-01,356,7.2906,80.6337,28,1374775
+Kegalle,Kegalle,Kegalle,August,Sabaragamuwa,2023-01-01,357,7.2513,80.3464,17,840648
+Kilinochchi,Kilinochchi,Kilinochchi,August,Northern,2023-01-01,358,9.3842,80.402,3,113510
+Kurunegala,Kurunegala,Kurunegala,August,North Western,2023-01-01,359,7.4863,80.0148,52,1618463
+Mannar,Mannar,Mannar,August,Northern,2023-01-01,360,8.981,79.9133,6,99548
+Matale,Matale,Matale,August,Central,2023-01-01,361,7.4675,80.6234,16,484531
+Matara,Matara,Matara,August,Southern,2023-01-01,362,5.9549,80.5353,23,809959
+Monaragala,Monaragala,Monaragala,August,Uva,2023-01-01,363,6.8906,81.2152,33,451058
+Mullaitivu,Mullaitivu,Mullaitivu,August,Northern,2023-01-01,364,9.2671,80.8061,7,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,August,Central,2023-01-01,365,6.9708,80.7671,16,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,August,North Central,2023-01-01,366,7.9403,81.0002,22,403068
+Puttalam,Puttalam,Puttalam,August,North Western,2023-01-01,367,8.0983,79.8283,30,762396
+Ratnapura,Ratnapura,Ratnapura,August,Sabaragamuwa,2023-01-01,368,6.6828,80.4,53,1096957
+Trincomalee,Trincomalee,Trincomalee,August,Eastern,2023-01-01,369,8.5874,81.2335,7,379541
+Vavuniya,Vavuniya,Vavuniya,August,Northern,2023-01-01,370,8.7519,80.5007,2,167591
+Unknown,,Unknown,August,,2023-01-01,371,,,28,
+,,,August,,2023-01-01,372,,,710,
+Ampara,Ampara,Ampara,September,Eastern,2023-01-01,373,7.2914,81.6728,18,649402
+Anuradhapura,Anuradhapura,Anuradhapura,September,North Central,2023-01-01,374,8.335,80.4037,31,860575
+Badulla,Badulla,Badulla,September,Uva,2023-01-01,375,6.9934,81.055,24,815405
+Batticaloa,Batticaloa,Batticaloa,September,Eastern,2023-01-01,376,7.717,81.7056,9,526567
+Colombo,Colombo,Colombo,September,Western,2023-01-01,377,6.9271,79.8612,86,2324344
+Galle,Galle,Galle,September,Southern,2023-01-01,378,6.0535,80.217,32,1024889
+Gampaha,Gampaha,Gampaha,September,Western,2023-01-01,379,7.084,79.8931,61,2290058
+Hambanthota,Hambanthota,Hambanthota,September,Southern,2023-01-01,380,6.1241,81.1185,32,594335
+Jaffna,Jaffna,Jaffna,September,Northern,2023-01-01,381,9.6615,80.0074,10,583378
+Kalutara,Kalutara,Kalutara,September,Western,2023-01-01,382,6.5854,79.9166,39,1221759
+Kandy,Kandy,Kandy,September,Central,2023-01-01,383,7.2906,80.6337,30,1374775
+Kegalle,Kegalle,Kegalle,September,Sabaragamuwa,2023-01-01,384,7.2513,80.3464,25,840648
+Kilinochchi,Kilinochchi,Kilinochchi,September,Northern,2023-01-01,385,9.3842,80.402,3,113510
+Kurunegala,Kurunegala,Kurunegala,September,North Western,2023-01-01,386,7.4863,80.0148,78,1618463
+Mannar,Mannar,Mannar,September,Northern,2023-01-01,387,8.981,79.9133,2,99548
+Matale,Matale,Matale,September,Central,2023-01-01,388,7.4675,80.6234,15,484531
+Matara,Matara,Matara,September,Southern,2023-01-01,389,5.9549,80.5353,27,809959
+Monaragala,Monaragala,Monaragala,September,Uva,2023-01-01,390,6.8906,81.2152,28,451058
+Mullaitivu,Mullaitivu,Mullaitivu,September,Northern,2023-01-01,391,9.2671,80.8061,8,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,September,Central,2023-01-01,392,6.9708,80.7671,14,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,September,North Central,2023-01-01,393,7.9403,81.0002,29,403068
+Puttalam,Puttalam,Puttalam,September,North Western,2023-01-01,394,8.0983,79.8283,32,762396
+Ratnapura,Ratnapura,Ratnapura,September,Sabaragamuwa,2023-01-01,395,6.6828,80.4,37,1096957
+Trincomalee,Trincomalee,Trincomalee,September,Eastern,2023-01-01,396,8.5874,81.2335,10,379541
+Vavuniya,Vavuniya,Vavuniya,September,Northern,2023-01-01,397,8.7519,80.5007,3,167591
+Unknown,,Unknown,September,,2023-01-01,398,,,20,
+,,,September,,2023-01-01,399,,,703,
+Ampara,Ampara,Ampara,October,Eastern,2023-01-01,400,7.2914,81.6728,29,649402
+Anuradhapura,Anuradhapura,Anuradhapura,October,North Central,2023-01-01,401,8.335,80.4037,46,860575
+Badulla,Badulla,Badulla,October,Uva,2023-01-01,402,6.9934,81.055,19,815405
+Batticaloa,Batticaloa,Batticaloa,October,Eastern,2023-01-01,403,7.717,81.7056,21,526567
+Colombo,Colombo,Colombo,October,Western,2023-01-01,404,6.9271,79.8612,98,2324344
+Galle,Galle,Galle,October,Southern,2023-01-01,405,6.0535,80.217,52,1024889
+Gampaha,Gampaha,Gampaha,October,Western,2023-01-01,406,7.084,79.8931,74,2290058
+Hambanthota,Hambanthota,Hambanthota,October,Southern,2023-01-01,407,6.1241,81.1185,30,594335
+Jaffna,Jaffna,Jaffna,October,Northern,2023-01-01,408,9.6615,80.0074,14,583378
+Kalutara,Kalutara,Kalutara,October,Western,2023-01-01,409,6.5854,79.9166,48,1221759
+Kandy,Kandy,Kandy,October,Central,2023-01-01,410,7.2906,80.6337,28,1374775
+Kegalle,Kegalle,Kegalle,October,Sabaragamuwa,2023-01-01,411,7.2513,80.3464,27,840648
+Kilinochchi,Kilinochchi,Kilinochchi,October,Northern,2023-01-01,412,9.3842,80.402,7,113510
+Kurunegala,Kurunegala,Kurunegala,October,North Western,2023-01-01,413,7.4863,80.0148,52,1618463
+Mannar,Mannar,Mannar,October,Northern,2023-01-01,414,8.981,79.9133,6,99548
+Matale,Matale,Matale,October,Central,2023-01-01,415,7.4675,80.6234,17,484531
+Matara,Matara,Matara,October,Southern,2023-01-01,416,5.9549,80.5353,24,809959
+Monaragala,Monaragala,Monaragala,October,Uva,2023-01-01,417,6.8906,81.2152,29,451058
+Mullaitivu,Mullaitivu,Mullaitivu,October,Northern,2023-01-01,418,9.2671,80.8061,8,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,October,Central,2023-01-01,419,6.9708,80.7671,10,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,October,North Central,2023-01-01,420,7.9403,81.0002,12,403068
+Puttalam,Puttalam,Puttalam,October,North Western,2023-01-01,421,8.0983,79.8283,34,762396
+Ratnapura,Ratnapura,Ratnapura,October,Sabaragamuwa,2023-01-01,422,6.6828,80.4,48,1096957
+Trincomalee,Trincomalee,Trincomalee,October,Eastern,2023-01-01,423,8.5874,81.2335,4,379541
+Vavuniya,Vavuniya,Vavuniya,October,Northern,2023-01-01,424,8.7519,80.5007,4,167591
+Unknown,,Unknown,October,,2023-01-01,425,,,26,
+,,,October,,2023-01-01,426,,,767,
+Ampara,Ampara,Ampara,November,Eastern,2023-01-01,427,7.2914,81.6728,23,649402
+Anuradhapura,Anuradhapura,Anuradhapura,November,North Central,2023-01-01,428,8.335,80.4037,39,860575
+Badulla,Badulla,Badulla,November,Uva,2023-01-01,429,6.9934,81.055,23,815405
+Batticaloa,Batticaloa,Batticaloa,November,Eastern,2023-01-01,430,7.717,81.7056,15,526567
+Colombo,Colombo,Colombo,November,Western,2023-01-01,431,6.9271,79.8612,87,2324344
+Galle,Galle,Galle,November,Southern,2023-01-01,432,6.0535,80.217,55,1024889
+Gampaha,Gampaha,Gampaha,November,Western,2023-01-01,433,7.084,79.8931,76,2290058
+Hambanthota,Hambanthota,Hambanthota,November,Southern,2023-01-01,434,6.1241,81.1185,40,594335
+Jaffna,Jaffna,Jaffna,November,Northern,2023-01-01,435,9.6615,80.0074,18,583378
+Kalutara,Kalutara,Kalutara,November,Western,2023-01-01,436,6.5854,79.9166,56,1221759
+Kandy,Kandy,Kandy,November,Central,2023-01-01,437,7.2906,80.6337,43,1374775
+Kegalle,Kegalle,Kegalle,November,Sabaragamuwa,2023-01-01,438,7.2513,80.3464,32,840648
+Kilinochchi,Kilinochchi,Kilinochchi,November,Northern,2023-01-01,439,9.3842,80.402,6,113510
+Kurunegala,Kurunegala,Kurunegala,November,North Western,2023-01-01,440,7.4863,80.0148,61,1618463
+Mannar,Mannar,Mannar,November,Northern,2023-01-01,441,8.981,79.9133,4,99548
+Matale,Matale,Matale,November,Central,2023-01-01,442,7.4675,80.6234,18,484531
+Matara,Matara,Matara,November,Southern,2023-01-01,443,5.9549,80.5353,27,809959
+Monaragala,Monaragala,Monaragala,November,Uva,2023-01-01,444,6.8906,81.2152,14,451058
+Mullaitivu,Mullaitivu,Mullaitivu,November,Northern,2023-01-01,445,9.2671,80.8061,8,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,November,Central,2023-01-01,446,6.9708,80.7671,18,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,November,North Central,2023-01-01,447,7.9403,81.0002,22,403068
+Puttalam,Puttalam,Puttalam,November,North Western,2023-01-01,448,8.0983,79.8283,29,762396
+Ratnapura,Ratnapura,Ratnapura,November,Sabaragamuwa,2023-01-01,449,6.6828,80.4,53,1096957
+Trincomalee,Trincomalee,Trincomalee,November,Eastern,2023-01-01,450,8.5874,81.2335,16,379541
+Vavuniya,Vavuniya,Vavuniya,November,Northern,2023-01-01,451,8.7519,80.5007,7,167591
+Unknown,,Unknown,November,,2023-01-01,452,,,20,
+,,,November,,2023-01-01,453,,,810,
+Ampara,Ampara,Ampara,December,Eastern,2023-01-01,454,7.2914,81.6728,25,649402
+Anuradhapura,Anuradhapura,Anuradhapura,December,North Central,2023-01-01,455,8.335,80.4037,40,860575
+Badulla,Badulla,Badulla,December,Uva,2023-01-01,456,6.9934,81.055,18,815405
+Batticaloa,Batticaloa,Batticaloa,December,Eastern,2023-01-01,457,7.717,81.7056,17,526567
+Colombo,Colombo,Colombo,December,Western,2023-01-01,458,6.9271,79.8612,75,2324344
+Galle,Galle,Galle,December,Southern,2023-01-01,459,6.0535,80.217,55,1024889
+Gampaha,Gampaha,Gampaha,December,Western,2023-01-01,460,7.084,79.8931,70,2290058
+Hambanthota,Hambanthota,Hambanthota,December,Southern,2023-01-01,461,6.1241,81.1185,37,594335
+Jaffna,Jaffna,Jaffna,December,Northern,2023-01-01,462,9.6615,80.0074,10,583378
+Kalutara,Kalutara,Kalutara,December,Western,2023-01-01,463,6.5854,79.9166,35,1221759
+Kandy,Kandy,Kandy,December,Central,2023-01-01,464,7.2906,80.6337,35,1374775
+Kegalle,Kegalle,Kegalle,December,Sabaragamuwa,2023-01-01,465,7.2513,80.3464,31,840648
+Kilinochchi,Kilinochchi,Kilinochchi,December,Northern,2023-01-01,466,9.3842,80.402,2,113510
+Kurunegala,Kurunegala,Kurunegala,December,North Western,2023-01-01,467,7.4863,80.0148,52,1618463
+Mannar,Mannar,Mannar,December,Northern,2023-01-01,468,8.981,79.9133,6,99548
+Matale,Matale,Matale,December,Central,2023-01-01,469,7.4675,80.6234,15,484531
+Matara,Matara,Matara,December,Southern,2023-01-01,470,5.9549,80.5353,28,809959
+Monaragala,Monaragala,Monaragala,December,Uva,2023-01-01,471,6.8906,81.2152,20,451058
+Mullaitivu,Mullaitivu,Mullaitivu,December,Northern,2023-01-01,472,9.2671,80.8061,7,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,December,Central,2023-01-01,473,6.9708,80.7671,13,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,December,North Central,2023-01-01,474,7.9403,81.0002,23,403068
+Puttalam,Puttalam,Puttalam,December,North Western,2023-01-01,475,8.0983,79.8283,24,762396
+Ratnapura,Ratnapura,Ratnapura,December,Sabaragamuwa,2023-01-01,476,6.6828,80.4,45,1096957
+Trincomalee,Trincomalee,Trincomalee,December,Eastern,2023-01-01,477,8.5874,81.2335,17,379541
+Vavuniya,Vavuniya,Vavuniya,December,Northern,2023-01-01,478,8.7519,80.5007,7,167591
+Unknown,,Unknown,December,,2023-01-01,479,,,59,
+,,,December,,2023-01-01,480,,,766,
+Ampara,Ampara,Ampara,Total,Eastern,2023-01-01,481,7.2914,81.6728,237,649402
+Anuradhapura,Anuradhapura,Anuradhapura,Total,North Central,2023-01-01,482,8.335,80.4037,521,860575
+Badulla,Badulla,Badulla,Total,Uva,2023-01-01,483,6.9934,81.055,246,815405
+Batticaloa,Batticaloa,Batticaloa,Total,Eastern,2023-01-01,484,7.717,81.7056,178,526567
+Colombo,Colombo,Colombo,Total,Western,2023-01-01,485,6.9271,79.8612,1174,2324344
+Galle,Galle,Galle,Total,Southern,2023-01-01,486,6.0535,80.217,541,1024889
+Gampaha,Gampaha,Gampaha,Total,Western,2023-01-01,487,7.084,79.8931,907,2290058
+Hambanthota,Hambanthota,Hambanthota,Total,Southern,2023-01-01,488,6.1241,81.1185,18,594335
+Jaffna,Jaffna,Jaffna,Total,Northern,2023-01-01,489,9.6615,80.0074,138,583378
+Kalutara,Kalutara,Kalutara,Total,Western,2023-01-01,490,6.5854,79.9166,548,1221759
+Kandy,Kandy,Kandy,Total,Central,2023-01-01,491,7.2906,80.6337,424,1374775
+Kegalle,Kegalle,Kegalle,Total,Sabaragamuwa,2023-01-01,492,7.2513,80.3464,293,840648
+Kilinochchi,Kilinochchi,Kilinochchi,Total,Northern,2023-01-01,493,9.3842,80.402,52,113510
+Kurunegala,Kurunegala,Kurunegala,Total,North Western,2023-01-01,494,7.4863,80.0148,760,1618463
+Mannar,Mannar,Mannar,Total,Northern,2023-01-01,495,8.981,79.9133,50,99548
+Matale,Matale,Matale,Total,Central,2023-01-01,496,7.4675,80.6234,193,484531
+Matara,Matara,Matara,Total,Southern,2023-01-01,497,5.9549,80.5353,315,809959
+Monaragala,Monaragala,Monaragala,Total,Uva,2023-01-01,498,6.8906,81.2152,291,451058
+Mullaitivu,Mullaitivu,Mullaitivu,Total,Northern,2023-01-01,499,9.2671,80.8061,82,92038
+Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,Total,Central,2023-01-01,500,6.9708,80.7671,184,711644
+Polonnaruwa,Polonnaruwa,Polonnaruwa,Total,North Central,2023-01-01,501,7.9403,81.0002,283,403068
+Puttalam,Puttalam,Puttalam,Total,North Western,2023-01-01,502,8.0983,79.8283,396,762396
+Ratnapura,Ratnapura,Ratnapura,Total,Sabaragamuwa,2023-01-01,503,6.6828,80.4,598,1096957
+Trincomalee,Trincomalee,Trincomalee,Total,Eastern,2023-01-01,504,8.5874,81.2335,133,379541
+Vavuniya,Vavuniya,Vavuniya,Total,Northern,2023-01-01,505,8.7519,80.5007,65,167591
+Unknown,,Unknown,Total,,2023-01-01,506,,,434,
+,,,Total,,2023-01-01,507,,,9436,

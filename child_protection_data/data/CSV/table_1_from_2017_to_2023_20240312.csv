@@ -1,0 +1,601 @@
+,Unnamed: 0,Year,Month,Type of abuse,No of complaints
+0,0,2017,,14 - ACO: Restriction on Payment,1.0
+1,1,2017,,286A - Obscene Publications,8.0
+2,2,2017,,288 - Procuring to Beg,312.0
+3,3,2017,,288B - Trafficking Restricted Articles/Drugs,28.0
+4,4,2017,,308A - Cruelty to Children,2144.0
+5,5,2017,,345 - Sexual Harassment,501.0
+6,6,2017,,352 - Kidnapping from Lawful Guardianship,145.0
+7,7,2017,,353 - Abduction,42.0
+8,8,2017,,360C - Trafficking,116.0
+9,9,2017,,360E - Soliciting a Child,10.0
+10,10,2017,,363 - Rape,340.0
+11,11,2017,,364A - Incest,1.0
+12,12,2017,,365 - Unnatural Offence,1.0
+13,13,2017,,365A - Gross Indecency,5.0
+14,14,2017,,365B - Grave Sexual Abuse,309.0
+15,15,2017,,71 - CYPO: Neglect of Children,390.0
+16,16,2017,,76 - CYPO: Sale of Tobacco,3.0
+17,17,2017,,Child Labor,269.0
+18,18,2017,,Compulsory Education,1324.0
+19,19,2017,,Domestic Violence,80.0
+20,20,2017,,Juvenile Delinquency,492.0
+21,21,2017,,Miscellaneous,2493.0
+22,22,2017,,Total,9014.0
+23,23,2018,,27A - ACO: Unlawful Custody,2.0
+24,24,2018,,286A - Obscene Publications,15.0
+25,25,2018,,288 - Procuring to Beg,315.0
+26,26,2018,,288B - Trafficking Restricted Articles/Drugs,40.0
+27,27,2018,,308 - Exposure and Abandonment,3.0
+28,28,2018,,308A - Cruelty to Children,2413.0
+29,29,2018,,345 - Sexual Harassment,555.0
+30,30,2018,,352 - Kidnapping from Lawful Guardianship,120.0
+31,31,2018,,353 - Abduction,45.0
+32,32,2018,,360B - Sexual Exploitation of Children,4.0
+33,33,2018,,360C - Trafficking,125.0
+34,34,2018,,360E - Soliciting a Child,15.0
+35,35,2018,,363 - Rape,311.0
+36,36,2018,,364A - Incest,1.0
+37,37,2018,,365 - Unnatural Offence,1.0
+38,38,2018,,365A - Gross Indecency,7.0
+39,39,2018,,365B - Grave Sexual Abuse,375.0
+40,40,2018,,71 - CYPO: Neglect of Children,536.0
+41,41,2018,,Child Labor,262.0
+42,42,2018,,Compulsory Education,1267.0
+43,43,2018,,Domestic Violence,104.0
+44,44,2018,,Juvenile Delinquency,374.0
+45,45,2018,,Miscellaneous,2622.0
+46,46,2018,,Total,9512.0
+47,47,2019,,14 - ACO: Restriction on Payment,1.0
+48,48,2019,,27A - ACO: Unlawful Custody,4.0
+49,49,2019,,286A - Obscene Publications,23.0
+50,50,2019,,288 - Procuring to Beg,299.0
+51,51,2019,,288B - Trafficking Restricted Articles/Drugs,29.0
+52,52,2019,,308 - Exposure and Abandonment,2.0
+53,53,2019,,308A - Cruelty to Children,2342.0
+54,54,2019,,345 - Sexual Harassment,594.0
+55,55,2019,,35 - CYPO: Child or Young Person in Need of Care & Protection,7.0
+56,56,2019,,352 - Kidnapping from Lawful Guardianship,109.0
+57,57,2019,,353 - Abduction,44.0
+58,58,2019,,360B - Sexual Exploitation of Children,4.0
+59,59,2019,,360C - Trafficking,119.0
+60,60,2019,,360E - Soliciting a Child,14.0
+61,61,2019,,363 - Rape,294.0
+62,62,2019,,364A - Incest,1.0
+63,63,2019,,365 - Unnatural Offence,1.0
+64,64,2019,,365A - Gross Indecency,1.0
+65,65,2019,,365B - Grave Sexual Abuse,288.0
+66,66,2019,,71 - CYPO: Neglect of Children,906.0
+67,67,2019,,76 - CYPO: Sale of Tobacco,1.0
+68,68,2019,,Child Labor,265.0
+69,69,2019,,Compulsory Education,1290.0
+70,70,2019,,Domestic Violence,79.0
+71,71,2019,,Juvenile Delinquency,337.0
+72,72,2019,,Miscellaneous,1505.0
+73,73,2019,,Total,8558.0
+74,74,2020,,Miscellaneous,2580.0
+75,75,2020,,Cruelty to Children,2237.0
+76,76,2020,,Compulsory Education,643.0
+77,77,2020,,Sexual Harassment,518.0
+78,78,2020,,Children and Young Person Ordinance-Neglect of Children,466.0
+81,81,2020,,365B - Grave Sexual Abuse,373.0
+82,82,2020,,Juvenile Delinquency,270.0
+83,83,2020,,Rape,256.0
+84,84,2020,,Child Labor,228.0
+85,85,2020,,288 - Procuring to Beg,200.0
+86,86,2020,,352 - Kidnapping from Lawful Guardianship,97.0
+87,87,2020,,360C - Trafficking,82.0
+88,88,2020,,353 - Abduction,71.0
+89,89,2020,,Domestic Violence,50.0
+90,90,2020,,288B - Trafficking Restricted Articles/Drugs,44.0
+91,91,2020,,286A - Obscene Publications,39.0
+92,92,2020,,360E - Soliciting a Child,7.0
+93,93,2020,,364A - Incest,2.0
+94,94,2020,,365 - Unnatural Offence,2.0
+95,95,2020,,Total,8165.0
+96,96,2021,,286A - Obscene Publications,10.0
+97,97,2021,,288 - Procuring to Beg,240.0
+98,98,2021,,360B - Sexual Exploitation of Children,8.0
+99,99,2021,,288B - Trafficking Restricted Articles/Drugs,44.0
+100,100,2021,,308A - Cruelty to Children,2741.0
+101,101,2021,,345 - Sexual Harassment,947.0
+102,102,2021,,,
+103,103,2021,,352 - Kidnapping from Lawful Guardianship,99.0
+104,104,2021,,,
+105,105,2021,,353 - Abduction,354.0
+106,106,2021,,,
+107,107,2021,,360C - Trafficking,124.0
+108,108,2021,,,
+109,109,2021,,363 - Rape,123.0
+110,110,2021,,,
+111,111,2021,,364A - Incest,8.0
+112,112,2021,,,
+113,113,2021,,365B - Grave Sexual Abuse,246.0
+114,114,2021,,,
+115,115,2021,,71 - CYPO: Neglect of Children,1535.0
+116,116,2021,,,
+117,117,2021,,Child Labor,375.0
+118,118,2021,,,
+119,119,2021,,Compulsory Education,541.0
+120,120,2021,,,
+121,121,2021,,Domestic Violence,97.0
+122,122,2021,,,
+123,123,2021,,Juvenile Delinquency,263.0
+124,124,2021,,,
+125,125,2021,,,
+126,126,2021,,Miscellaneous,3432.0
+127,127,2021,,Total,11187.0
+128,128,2022,,286A - Obscene Publications,7.0
+129,129,2022,,288 - Procuring to Beg,249.0
+130,130,2022,,360B - Sexual Exploitation of Children,25.0
+131,131,2022,,288B - Trafficking Restricted Articles/Drugs,41.0
+132,132,2022,,308A - Cruelty to Children,2096.0
+133,133,2022,,345 - Sexual Harassment,729.0
+134,134,2022,,352 - Kidnapping from Lawful Guardianship,131.0
+135,135,2022,,353 - Abduction,171.0
+136,136,2022,,360C - Trafficking,132.0
+137,137,2022,,363 - Rape,167.0
+138,138,2022,,364A - Incest,1.0
+139,139,2022,,365B - Grave Sexual Abuse,185.0
+140,140,2022,,71 - CYPO: Neglect of Children,2005.0
+141,141,2022,,Child Labor,214.0
+142,142,2022,,Compulsory Education,1231.0
+143,143,2022,,Domestic Violence,82.0
+144,144,2022,,Juvenile Delinquency,229.0
+145,145,2022,,Miscellaneous,2802.0
+146,146,2022,,Total,10497.0
+147,147,2023,January,353 - Abduction,19.0
+148,148,2023,January,288 - Procuring to Beg,21.0
+149,149,2023,January,35 - CYPO: Child or Young Person in Need of Care & Protection,159.0
+150,150,2023,January,Child Labor,8.0
+151,151,2023,January,Compulsory Education,120.0
+152,152,2023,January,308A - Cruelty to Children,130.0
+153,153,2023,January,365B - Grave Sexual Abuse,37.0
+154,154,2023,January,311 - Grievous Hurt,22.0
+155,155,2023,January,360B - Sexual Exploitation of Children,1.0
+156,156,2023,January,360D - Offences Related to Adoption,1.0
+157,157,2023,January,364A - Incest,1.0
+158,158,2023,January,363 - Rape,9.0
+159,159,2023,January,Juvenile Delinquency,15.0
+160,160,2023,January,352 - Kidnapping from Lawful Guardianship,2.0
+161,161,2023,January,360C - Trafficking,1.0
+162,162,2023,January,360A - Procreation,0.0
+163,163,2023,January,288B - Trafficking Restricted Articles/Drugs,5.0
+164,164,2023,January,345 - Sexual Harassment,44.0
+165,165,2023,January,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,1.0
+166,166,2023,January,310 - Cause Hurt,9.0
+167,167,2023,January,351 - Kidnapping from Sri Lanka,1.0
+168,168,2023,January,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,1.0
+169,169,2023,January,"71 - CYPO: Neglect of Children, Cruelty",51.0
+170,170,2023,January,CYPO 20 - Prohibition of Publication of Certain Matters,1.0
+171,171,2023,January,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,2.0
+172,172,2023,January,76 - CYPO: Sale of Tobacco to Person Under 16 Years,1.0
+173,173,2023,January,CYPO 77 - Preventing Children from Receiving Education,1.0
+174,174,2023,January,286A - Obscene Publications,0.0
+175,175,2023,January,"358A - Serfdom, Slavery, Child Soldiers",0.0
+176,176,2023,January,365A - Gross Indecency,0.0
+177,177,2023,January,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+178,178,2023,January,360E - Soliciting a Child,0.0
+179,179,2023,January,365C - Publication of Sexual Abuse,0.0
+180,180,2023,January,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+181,181,2023,January,,663.0
+182,182,2023,February,353 - Abduction,17.0
+183,183,2023,February,288 - Procuring to Beg,32.0
+184,184,2023,February,35 - CYPO: Child or Young Person in Need of Care & Protection,169.0
+185,185,2023,February,Child Labor,11.0
+186,186,2023,February,Compulsory Education,82.0
+187,187,2023,February,308A - Cruelty to Children,149.0
+188,188,2023,February,365B - Grave Sexual Abuse,27.0
+189,189,2023,February,311 - Grievous Hurt,26.0
+190,190,2023,February,360B - Sexual Exploitation of Children,0.0
+191,191,2023,February,360D - Offences Related to Adoption,0.0
+192,192,2023,February,364A - Incest,0.0
+193,193,2023,February,363 - Rape,4.0
+194,194,2023,February,Juvenile Delinquency,18.0
+195,195,2023,February,352 - Kidnapping from Lawful Guardianship,3.0
+196,196,2023,February,360C - Trafficking,2.0
+197,197,2023,February,360A - Procreation,3.0
+198,198,2023,February,288B - Trafficking Restricted Articles/Drugs,4.0
+199,199,2023,February,345 - Sexual Harassment,32.0
+200,200,2023,February,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,0.0
+201,201,2023,February,310 - Cause Hurt,7.0
+202,202,2023,February,351 - Kidnapping from Sri Lanka,1.0
+203,203,2023,February,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,0.0
+204,204,2023,February,"71 - CYPO: Neglect of Children, Cruelty",31.0
+205,205,2023,February,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+206,206,2023,February,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,0.0
+207,207,2023,February,76 - CYPO: Sale of Tobacco to Person Under 16 Years,0.0
+208,208,2023,February,CYPO 77 - Preventing Children from Receiving Education,0.0
+209,209,2023,February,286A - Obscene Publications,0.0
+210,210,2023,February,"358A - Serfdom, Slavery, Child Soldiers",2.0
+211,211,2023,February,365A - Gross Indecency,0.0
+212,212,2023,February,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+213,213,2023,February,360E - Soliciting a Child,0.0
+214,214,2023,February,365C - Publication of Sexual Abuse,0.0
+215,215,2023,February,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+216,216,2023,February,,620.0
+217,217,2023,March,353 - Abduction,27.0
+218,218,2023,March,288 - Procuring to Beg,24.0
+219,219,2023,March,35 - CYPO: Child or Young Person in Need of Care & Protection,294.0
+220,220,2023,March,Child Labor,18.0
+221,221,2023,March,Compulsory Education,184.0
+222,222,2023,March,308A - Cruelty to Children,252.0
+223,223,2023,March,365B - Grave Sexual Abuse,47.0
+224,224,2023,March,311 - Grievous Hurt,26.0
+225,225,2023,March,360B - Sexual Exploitation of Children,1.0
+226,226,2023,March,360D - Offences Related to Adoption,0.0
+227,227,2023,March,364A - Incest,1.0
+228,228,2023,March,363 - Rape,5.0
+229,229,2023,March,Juvenile Delinquency,29.0
+230,230,2023,March,352 - Kidnapping from Lawful Guardianship,2.0
+231,231,2023,March,360C - Trafficking,1.0
+232,232,2023,March,360A - Procreation,0.0
+233,233,2023,March,288B - Trafficking Restricted Articles/Drugs,1.0
+234,234,2023,March,345 - Sexual Harassment,38.0
+235,235,2023,March,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,1.0
+236,236,2023,March,310 - Cause Hurt,29.0
+237,237,2023,March,351 - Kidnapping from Sri Lanka,0.0
+238,238,2023,March,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,2.0
+239,239,2023,March,"71 - CYPO: Neglect of Children, Cruelty",79.0
+240,240,2023,March,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+241,241,2023,March,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,1.0
+242,242,2023,March,76 - CYPO: Sale of Tobacco to Person Under 16 Years,1.0
+243,243,2023,March,CYPO 77 - Preventing Children from Receiving Education,0.0
+244,244,2023,March,286A - Obscene Publications,1.0
+245,245,2023,March,"358A - Serfdom, Slavery, Child Soldiers",2.0
+246,246,2023,March,365A - Gross Indecency,1.0
+247,247,2023,March,286C - Duty to Inform of Use of Premises for Child Abuse,1.0
+248,248,2023,March,360E - Soliciting a Child,0.0
+249,249,2023,March,365C - Publication of Sexual Abuse,0.0
+250,250,2023,March,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+251,251,2023,March,,1068.0
+252,252,2023,April,353 - Abduction,16.0
+253,253,2023,April,288 - Procuring to Beg,17.0
+254,254,2023,April,35 - CYPO: Child or Young Person in Need of Care & Protection,140.0
+255,255,2023,April,Child Labor,9.0
+256,256,2023,April,Compulsory Education,100.0
+257,257,2023,April,308A - Cruelty to Children,142.0
+258,258,2023,April,365B - Grave Sexual Abuse,22.0
+259,259,2023,April,311 - Grievous Hurt,21.0
+260,260,2023,April,360B - Sexual Exploitation of Children,1.0
+261,261,2023,April,360D - Offences Related to Adoption,0.0
+262,262,2023,April,364A - Incest,0.0
+263,263,2023,April,363 - Rape,3.0
+264,264,2023,April,Juvenile Delinquency,32.0
+265,265,2023,April,352 - Kidnapping from Lawful Guardianship,5.0
+266,266,2023,April,360C - Trafficking,3.0
+267,267,2023,April,360A - Procreation,0.0
+268,268,2023,April,288B - Trafficking Restricted Articles/Drugs,2.0
+269,269,2023,April,345 - Sexual Harassment,22.0
+270,270,2023,April,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,0.0
+271,271,2023,April,310 - Cause Hurt,17.0
+272,272,2023,April,351 - Kidnapping from Sri Lanka,0.0
+273,273,2023,April,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,0.0
+274,274,2023,April,"71 - CYPO: Neglect of Children, Cruelty",21.0
+275,275,2023,April,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+276,276,2023,April,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,0.0
+277,277,2023,April,76 - CYPO: Sale of Tobacco to Person Under 16 Years,0.0
+278,278,2023,April,CYPO 77 - Preventing Children from Receiving Education,2.0
+279,279,2023,April,286A - Obscene Publications,0.0
+280,280,2023,April,"358A - Serfdom, Slavery, Child Soldiers",0.0
+281,281,2023,April,365A - Gross Indecency,0.0
+282,282,2023,April,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+283,283,2023,April,360E - Soliciting a Child,0.0
+284,284,2023,April,365C - Publication of Sexual Abuse,0.0
+285,285,2023,April,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+286,286,2023,April,,575.0
+287,287,2023,May,353 - Abduction,20.0
+288,288,2023,May,288 - Procuring to Beg,36.0
+289,289,2023,May,35 - CYPO: Child or Young Person in Need of Care & Protection,246.0
+290,290,2023,May,Child Labor,23.0
+291,291,2023,May,Compulsory Education,161.0
+292,292,2023,May,308A - Cruelty to Children,220.0
+293,293,2023,May,365B - Grave Sexual Abuse,31.0
+294,294,2023,May,311 - Grievous Hurt,23.0
+295,295,2023,May,360B - Sexual Exploitation of Children,2.0
+296,296,2023,May,360D - Offences Related to Adoption,0.0
+297,297,2023,May,364A - Incest,1.0
+298,298,2023,May,363 - Rape,5.0
+299,299,2023,May,Juvenile Delinquency,35.0
+300,300,2023,May,352 - Kidnapping from Lawful Guardianship,7.0
+301,301,2023,May,360C - Trafficking,2.0
+302,302,2023,May,360A - Procreation,2.0
+303,303,2023,May,288B - Trafficking Restricted Articles/Drugs,0.0
+304,304,2023,May,345 - Sexual Harassment,52.0
+305,305,2023,May,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,2.0
+306,306,2023,May,310 - Cause Hurt,16.0
+307,307,2023,May,351 - Kidnapping from Sri Lanka,1.0
+308,308,2023,May,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,1.0
+309,309,2023,May,"71 - CYPO: Neglect of Children, Cruelty",23.0
+310,310,2023,May,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+311,311,2023,May,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,0.0
+312,312,2023,May,76 - CYPO: Sale of Tobacco to Person Under 16 Years,0.0
+313,313,2023,May,CYPO 77 - Preventing Children from Receiving Education,1.0
+314,314,2023,May,286A - Obscene Publications,0.0
+315,315,2023,May,"358A - Serfdom, Slavery, Child Soldiers",0.0
+316,316,2023,May,365A - Gross Indecency,0.0
+317,317,2023,May,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+318,318,2023,May,360E - Soliciting a Child,0.0
+319,319,2023,May,365C - Publication of Sexual Abuse,4.0
+320,320,2023,May,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+321,321,2023,May,,914.0
+322,322,2023,June,353 - Abduction,21.0
+323,323,2023,June,288 - Procuring to Beg,38.0
+324,324,2023,June,35 - CYPO: Child or Young Person in Need of Care & Protection,213.0
+325,325,2023,June,Child Labor,17.0
+326,326,2023,June,Compulsory Education,196.0
+327,327,2023,June,308A - Cruelty to Children,197.0
+328,328,2023,June,365B - Grave Sexual Abuse,40.0
+329,329,2023,June,311 - Grievous Hurt,22.0
+330,330,2023,June,360B - Sexual Exploitation of Children,1.0
+331,331,2023,June,360D - Offences Related to Adoption,0.0
+332,332,2023,June,364A - Incest,0.0
+333,333,2023,June,363 - Rape,4.0
+334,334,2023,June,Juvenile Delinquency,34.0
+335,335,2023,June,352 - Kidnapping from Lawful Guardianship,4.0
+336,336,2023,June,360C - Trafficking,4.0
+337,337,2023,June,360A - Procreation,1.0
+338,338,2023,June,288B - Trafficking Restricted Articles/Drugs,3.0
+339,339,2023,June,345 - Sexual Harassment,42.0
+340,340,2023,June,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,0.0
+341,341,2023,June,310 - Cause Hurt,23.0
+342,342,2023,June,351 - Kidnapping from Sri Lanka,0.0
+343,343,2023,June,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,5.0
+344,344,2023,June,"71 - CYPO: Neglect of Children, Cruelty",19.0
+345,345,2023,June,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+346,346,2023,June,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,2.0
+347,347,2023,June,76 - CYPO: Sale of Tobacco to Person Under 16 Years,0.0
+348,348,2023,June,CYPO 77 - Preventing Children from Receiving Education,2.0
+349,349,2023,June,286A - Obscene Publications,0.0
+350,350,2023,June,"358A - Serfdom, Slavery, Child Soldiers",0.0
+351,351,2023,June,365A - Gross Indecency,0.0
+352,352,2023,June,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+353,353,2023,June,360E - Soliciting a Child,0.0
+354,354,2023,June,365C - Publication of Sexual Abuse,0.0
+355,355,2023,June,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+356,356,2023,June,,888.0
+357,357,2023,July,353 - Abduction,16.0
+358,358,2023,July,288 - Procuring to Beg,28.0
+359,359,2023,July,35 - CYPO: Child or Young Person in Need of Care & Protection,225.0
+360,360,2023,July,Child Labor,19.0
+361,361,2023,July,Compulsory Education,209.0
+362,362,2023,July,308A - Cruelty to Children,202.0
+363,363,2023,July,365B - Grave Sexual Abuse,37.0
+364,364,2023,July,311 - Grievous Hurt,23.0
+365,365,2023,July,360B - Sexual Exploitation of Children,0.0
+366,366,2023,July,360D - Offences Related to Adoption,2.0
+367,367,2023,July,364A - Incest,2.0
+368,368,2023,July,363 - Rape,7.0
+369,369,2023,July,Juvenile Delinquency,34.0
+370,370,2023,July,352 - Kidnapping from Lawful Guardianship,3.0
+371,371,2023,July,360C - Trafficking,5.0
+372,372,2023,July,360A - Procreation,1.0
+373,373,2023,July,288B - Trafficking Restricted Articles/Drugs,2.0
+374,374,2023,July,345 - Sexual Harassment,46.0
+375,375,2023,July,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,1.0
+376,376,2023,July,310 - Cause Hurt,19.0
+377,377,2023,July,351 - Kidnapping from Sri Lanka,0.0
+378,378,2023,July,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,0.0
+379,379,2023,July,"71 - CYPO: Neglect of Children, Cruelty",17.0
+380,380,2023,July,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+381,381,2023,July,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,0.0
+382,382,2023,July,76 - CYPO: Sale of Tobacco to Person Under 16 Years,1.0
+383,383,2023,July,CYPO 77 - Preventing Children from Receiving Education,0.0
+384,384,2023,July,286A - Obscene Publications,0.0
+385,385,2023,July,"358A - Serfdom, Slavery, Child Soldiers",0.0
+386,386,2023,July,365A - Gross Indecency,0.0
+387,387,2023,July,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+388,388,2023,July,360E - Soliciting a Child,0.0
+389,389,2023,July,365C - Publication of Sexual Abuse,0.0
+390,390,2023,July,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+391,391,2023,July,,899.0
+392,392,2023,August,353 - Abduction,11.0
+393,393,2023,August,288 - Procuring to Beg,21.0
+394,394,2023,August,35 - CYPO: Child or Young Person in Need of Care & Protection,204.0
+395,395,2023,August,Child Labor,14.0
+396,396,2023,August,Compulsory Education,147.0
+397,397,2023,August,308A - Cruelty to Children,185.0
+398,398,2023,August,365B - Grave Sexual Abuse,31.0
+399,399,2023,August,311 - Grievous Hurt,18.0
+400,400,2023,August,360B - Sexual Exploitation of Children,0.0
+401,401,2023,August,360D - Offences Related to Adoption,0.0
+402,402,2023,August,364A - Incest,0.0
+403,403,2023,August,363 - Rape,1.0
+404,404,2023,August,Juvenile Delinquency,33.0
+405,405,2023,August,352 - Kidnapping from Lawful Guardianship,7.0
+406,406,2023,August,360C - Trafficking,2.0
+407,407,2023,August,360A - Procreation,2.0
+408,408,2023,August,288B - Trafficking Restricted Articles/Drugs,3.0
+409,409,2023,August,345 - Sexual Harassment,30.0
+410,410,2023,August,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,0.0
+411,411,2023,August,310 - Cause Hurt,7.0
+412,412,2023,August,351 - Kidnapping from Sri Lanka,1.0
+413,413,2023,August,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,0.0
+414,414,2023,August,"71 - CYPO: Neglect of Children, Cruelty",8.0
+415,415,2023,August,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+416,416,2023,August,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,1.0
+417,417,2023,August,76 - CYPO: Sale of Tobacco to Person Under 16 Years,0.0
+418,418,2023,August,CYPO 77 - Preventing Children from Receiving Education,0.0
+419,419,2023,August,286A - Obscene Publications,2.0
+420,420,2023,August,"358A - Serfdom, Slavery, Child Soldiers",0.0
+421,421,2023,August,365A - Gross Indecency,0.0
+422,422,2023,August,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+423,423,2023,August,360E - Soliciting a Child,0.0
+424,424,2023,August,365C - Publication of Sexual Abuse,0.0
+425,425,2023,August,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+426,426,2023,August,,728.0
+427,427,2023,September,353 - Abduction,14.0
+428,428,2023,September,288 - Procuring to Beg,25.0
+429,429,2023,September,35 - CYPO: Child or Young Person in Need of Care & Protection,185.0
+430,430,2023,September,Child Labor,15.0
+431,431,2023,September,Compulsory Education,183.0
+432,432,2023,September,308A - Cruelty to Children,170.0
+433,433,2023,September,365B - Grave Sexual Abuse,24.0
+434,434,2023,September,311 - Grievous Hurt,19.0
+435,435,2023,September,360B - Sexual Exploitation of Children,1.0
+436,436,2023,September,360D - Offences Related to Adoption,0.0
+437,437,2023,September,364A - Incest,1.0
+438,438,2023,September,363 - Rape,5.0
+439,439,2023,September,Juvenile Delinquency,12.0
+440,440,2023,September,352 - Kidnapping from Lawful Guardianship,8.0
+441,441,2023,September,360C - Trafficking,5.0
+442,442,2023,September,360A - Procreation,1.0
+443,443,2023,September,288B - Trafficking Restricted Articles/Drugs,0.0
+444,444,2023,September,345 - Sexual Harassment,33.0
+445,445,2023,September,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,0.0
+446,446,2023,September,310 - Cause Hurt,15.0
+447,447,2023,September,351 - Kidnapping from Sri Lanka,0.0
+448,448,2023,September,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,1.0
+449,449,2023,September,"71 - CYPO: Neglect of Children, Cruelty",34.0
+450,450,2023,September,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+451,451,2023,September,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,2.0
+452,452,2023,September,76 - CYPO: Sale of Tobacco to Person Under 16 Years,0.0
+453,453,2023,September,CYPO 77 - Preventing Children from Receiving Education,0.0
+454,454,2023,September,286A - Obscene Publications,0.0
+455,455,2023,September,"358A - Serfdom, Slavery, Child Soldiers",0.0
+456,456,2023,September,365A - Gross Indecency,0.0
+457,457,2023,September,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+458,458,2023,September,360E - Soliciting a Child,0.0
+459,459,2023,September,365C - Publication of Sexual Abuse,0.0
+460,460,2023,September,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+461,461,2023,September,,753.0
+462,462,2023,October,353 - Abduction,10.0
+463,463,2023,October,288 - Procuring to Beg,30.0
+464,464,2023,October,35 - CYPO: Child or Young Person in Need of Care & Protection,224.0
+465,465,2023,October,Child Labor,15.0
+466,466,2023,October,Compulsory Education,181.0
+467,467,2023,October,308A - Cruelty to Children,182.0
+468,468,2023,October,365B - Grave Sexual Abuse,31.0
+469,469,2023,October,311 - Grievous Hurt,28.0
+470,470,2023,October,360B - Sexual Exploitation of Children,1.0
+471,471,2023,October,360D - Offences Related to Adoption,0.0
+472,472,2023,October,364A - Incest,1.0
+473,473,2023,October,363 - Rape,1.0
+474,474,2023,October,Juvenile Delinquency,25.0
+475,475,2023,October,352 - Kidnapping from Lawful Guardianship,6.0
+476,476,2023,October,360C - Trafficking,1.0
+477,477,2023,October,360A - Procreation,2.0
+478,478,2023,October,288B - Trafficking Restricted Articles/Drugs,2.0
+479,479,2023,October,345 - Sexual Harassment,43.0
+480,480,2023,October,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,0.0
+481,481,2023,October,310 - Cause Hurt,6.0
+482,482,2023,October,351 - Kidnapping from Sri Lanka,0.0
+483,483,2023,October,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,0.0
+484,484,2023,October,"71 - CYPO: Neglect of Children, Cruelty",47.0
+485,485,2023,October,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+486,486,2023,October,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,0.0
+487,487,2023,October,76 - CYPO: Sale of Tobacco to Person Under 16 Years,0.0
+488,488,2023,October,CYPO 77 - Preventing Children from Receiving Education,2.0
+489,489,2023,October,286A - Obscene Publications,0.0
+490,490,2023,October,"358A - Serfdom, Slavery, Child Soldiers",0.0
+491,491,2023,October,365A - Gross Indecency,0.0
+492,492,2023,October,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+493,493,2023,October,360E - Soliciting a Child,1.0
+494,494,2023,October,365C - Publication of Sexual Abuse,0.0
+495,495,2023,October,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+496,496,2023,October,,839.0
+497,497,2023,November,353 - Abduction,24.0
+498,498,2023,November,288 - Procuring to Beg,27.0
+499,499,2023,November,35 - CYPO: Child or Young Person in Need of Care & Protection,208.0
+500,500,2023,November,Child Labor,19.0
+501,501,2023,November,Compulsory Education,202.0
+502,502,2023,November,308A - Cruelty to Children,217.0
+503,503,2023,November,365B - Grave Sexual Abuse,39.0
+504,504,2023,November,311 - Grievous Hurt,21.0
+505,505,2023,November,360B - Sexual Exploitation of Children,0.0
+506,506,2023,November,360D - Offences Related to Adoption,0.0
+507,507,2023,November,364A - Incest,0.0
+508,508,2023,November,363 - Rape,3.0
+509,509,2023,November,Juvenile Delinquency,27.0
+510,510,2023,November,352 - Kidnapping from Lawful Guardianship,1.0
+511,511,2023,November,360C - Trafficking,5.0
+512,512,2023,November,360A - Procreation,3.0
+513,513,2023,November,288B - Trafficking Restricted Articles/Drugs,1.0
+514,514,2023,November,345 - Sexual Harassment,39.0
+515,515,2023,November,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,1.0
+516,516,2023,November,310 - Cause Hurt,7.0
+517,517,2023,November,351 - Kidnapping from Sri Lanka,0.0
+518,518,2023,November,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,1.0
+519,519,2023,November,"71 - CYPO: Neglect of Children, Cruelty",32.0
+520,520,2023,November,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+521,521,2023,November,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,0.0
+522,522,2023,November,76 - CYPO: Sale of Tobacco to Person Under 16 Years,1.0
+523,523,2023,November,CYPO 77 - Preventing Children from Receiving Education,0.0
+524,524,2023,November,286A - Obscene Publications,1.0
+525,525,2023,November,"358A - Serfdom, Slavery, Child Soldiers",0.0
+526,526,2023,November,365A - Gross Indecency,0.0
+527,527,2023,November,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+528,528,2023,November,360E - Soliciting a Child,0.0
+529,529,2023,November,365C - Publication of Sexual Abuse,0.0
+530,530,2023,November,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,1.0
+531,531,2023,November,,880.0
+532,532,2023,December,353 - Abduction,22.0
+533,533,2023,December,288 - Procuring to Beg,24.0
+534,534,2023,December,35 - CYPO: Child or Young Person in Need of Care & Protection,259.0
+535,535,2023,December,Child Labor,13.0
+536,536,2023,December,Compulsory Education,157.0
+537,537,2023,December,308A - Cruelty to Children,192.0
+538,538,2023,December,365B - Grave Sexual Abuse,37.0
+539,539,2023,December,311 - Grievous Hurt,17.0
+540,540,2023,December,360B - Sexual Exploitation of Children,0.0
+541,541,2023,December,360D - Offences Related to Adoption,0.0
+542,542,2023,December,364A - Incest,0.0
+543,543,2023,December,363 - Rape,3.0
+544,544,2023,December,Juvenile Delinquency,16.0
+545,545,2023,December,352 - Kidnapping from Lawful Guardianship,10.0
+546,546,2023,December,360C - Trafficking,1.0
+547,547,2023,December,360A - Procreation,5.0
+548,548,2023,December,288B - Trafficking Restricted Articles/Drugs,4.0
+549,549,2023,December,345 - Sexual Harassment,48.0
+550,550,2023,December,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,3.0
+551,551,2023,December,310 - Cause Hurt,11.0
+552,552,2023,December,351 - Kidnapping from Sri Lanka,0.0
+553,553,2023,December,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,0.0
+554,554,2023,December,"71 - CYPO: Neglect of Children, Cruelty",21.0
+555,555,2023,December,CYPO 20 - Prohibition of Publication of Certain Matters,0.0
+556,556,2023,December,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,1.0
+557,557,2023,December,76 - CYPO: Sale of Tobacco to Person Under 16 Years,0.0
+558,558,2023,December,CYPO 77 - Preventing Children from Receiving Education,0.0
+559,559,2023,December,286A - Obscene Publications,2.0
+560,560,2023,December,"358A - Serfdom, Slavery, Child Soldiers",0.0
+561,561,2023,December,365A - Gross Indecency,0.0
+562,562,2023,December,286C - Duty to Inform of Use of Premises for Child Abuse,0.0
+563,563,2023,December,360E - Soliciting a Child,0.0
+564,564,2023,December,365C - Publication of Sexual Abuse,0.0
+565,565,2023,December,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,0.0
+566,566,2023,December,,846.0
+567,567,2023,Total,353 - Abduction,217.0
+568,568,2023,Total,288 - Procuring to Beg,323.0
+569,569,2023,Total,35 - CYPO: Child or Young Person in Need of Care & Protection,2526.0
+570,570,2023,Total,Child Labor,181.0
+571,571,2023,Total,Compulsory Education,1922.0
+572,572,2023,Total,308A - Cruelty to Children,2238.0
+573,573,2023,Total,365B - Grave Sexual Abuse,403.0
+574,574,2023,Total,311 - Grievous Hurt,266.0
+575,575,2023,Total,360B - Sexual Exploitation of Children,8.0
+576,576,2023,Total,360D - Offences Related to Adoption,3.0
+577,577,2023,Total,364A - Incest,7.0
+578,578,2023,Total,363 - Rape,50.0
+579,579,2023,Total,Juvenile Delinquency,310.0
+580,580,2023,Total,352 - Kidnapping from Lawful Guardianship,58.0
+581,581,2023,Total,360C - Trafficking,32.0
+582,582,2023,Total,360A - Procreation,20.0
+583,583,2023,Total,288B - Trafficking Restricted Articles/Drugs,27.0
+584,584,2023,Total,345 - Sexual Harassment,469.0
+585,585,2023,Total,288A - Hiring or Employing Children to Act as Procurers for Sexual Intercourse,9.0
+586,586,2023,Total,310 - Cause Hurt,166.0
+587,587,2023,Total,351 - Kidnapping from Sri Lanka,4.0
+588,588,2023,Total,356 - Kidnapping or Abducting with Intent Secretly and Wrongfully to Confine a Person,11.0
+589,589,2023,Total,"71 - CYPO: Neglect of Children, Cruelty",383.0
+590,590,2023,Total,CYPO 20 - Prohibition of Publication of Certain Matters,1.0
+591,591,2023,Total,CYPO 72 - Seduction or Prostitution of Girl Under 16 Years,9.0
+592,592,2023,Total,76 - CYPO: Sale of Tobacco to Person Under 16 Years,4.0
+593,593,2023,Total,CYPO 77 - Preventing Children from Receiving Education,8.0
+594,594,2023,Total,286A - Obscene Publications,6.0
+595,595,2023,Total,"358A - Serfdom, Slavery, Child Soldiers",4.0
+596,596,2023,Total,365A - Gross Indecency,1.0
+597,597,2023,Total,286C - Duty to Inform of Use of Premises for Child Abuse,1.0
+598,598,2023,Total,360E - Soliciting a Child,1.0
+599,599,2023,Total,365C - Publication of Sexual Abuse,4.0
+600,600,2023,Total,CYPO 11 - Restrictions on Reports of Proceedings in Juvenile Courts,1.0
+601,601,2023,Total,,9673.0
